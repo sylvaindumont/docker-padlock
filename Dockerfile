@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:alpine
 
 EXPOSE 3000
 
